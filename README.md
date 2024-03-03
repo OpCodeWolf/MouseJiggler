@@ -15,9 +15,9 @@ Example Mouse Jiggler for ESP8266 WEMOS D1 using the PlatformIO IDE plugin for V
 
     <img src="resources/pinout-wemos-mini-d1.png" alt="Servo SG90 Pinout" style="width:500px;"/>
 
-### Wiring Schematic
+### Wiring Diagram
 
-<img src="resources/schematic_mousejiggler.png" alt="Mouse Jiggler Schematic" style="width:600px;"/>
+<img src="resources/mouse-jiggler-wiring-diagram.png" alt="Mouse Jiggler Schematic" style="width:600px;"/>
 
 
 
